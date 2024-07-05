@@ -1,4 +1,4 @@
-const express = required('express');
+const express = require('express');
 const path = require('path');
 const api = require('./routes/index.js');
 //A more flexible way to set the PORT environment
